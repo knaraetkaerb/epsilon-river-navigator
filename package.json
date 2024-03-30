@@ -1,0 +1,24 @@
+{
+  "name": "epsilon-river-navigator",
+  "version": "1.0.0",
+  "description": "Navigates rivers in the epsilon current, offering aquatic simulation and environmental analysis in digital ecosystems.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/epsilon-river-navigator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "zeta-stone-curator": "1.0.0",
+    "eta-phase-integrator": "1.0.0",
+    "truffle": "1.0.0",
+    "mocha": "1.0.0",
+    "react": "1.0.0"
+  }
+}
